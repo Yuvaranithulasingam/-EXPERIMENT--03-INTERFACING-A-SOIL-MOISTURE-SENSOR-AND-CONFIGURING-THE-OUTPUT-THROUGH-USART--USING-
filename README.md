@@ -62,7 +62,7 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 
 13. check for execution of the output using run option 
 
-## STM 32 CUBE PROGRAM :
+## STM 32 CUBE PROGRAM:
 ```
 #include "main.h"
 #include "Soil Moisture Sensor.h"
